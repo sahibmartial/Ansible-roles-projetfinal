@@ -1,0 +1,6 @@
+---
+# defaults file for apache-container
+system_user: vagrant
+webapp_port: 80
+file_template: index.html.j2
+domain: test
